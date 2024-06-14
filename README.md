@@ -1,4 +1,4 @@
-# React Item Management App
+# React Item information App
 
 This is a simple React application for managing a list of items. The app allows you to view, edit, and delete items, as well as view details for each item. The app uses JSONPlaceholder online REST API.
 
