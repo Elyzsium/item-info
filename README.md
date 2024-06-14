@@ -10,11 +10,13 @@ This is a simple React application for managing a list of items. The app allows 
 - [Setup](#setup)
 - [API](#api)
 - [Components](#components)
+- [Output](#Output)
 
 
 ## Demo
 
-You can view a live demo of the application [here](#).
+You can view a live demo of the application [here](#https://item-info-elysiums-projects-fcd33f12.vercel.app/).
+- link: https://item-info-elysiums-projects-fcd33f12.vercel.app/
 
 ## Features
 
@@ -64,4 +66,23 @@ You can view a live demo of the application [here](#).
 
 **ItemEdit.tsx**
 - Allows editing of a specific item.
+
+## Output 
+
+
+![list item](https://github.com/Elyzsium/item-info/assets/40998323/7012f09b-d304-41bd-b9c3-83b5594f3c37)
+
+- **List Item**
+
+![Screenshot 2024-06-14 at 16 15 11](https://github.com/Elyzsium/item-info/assets/40998323/b68982ec-d0ae-454e-869d-b7bcb3bc154c)
+
+- **Edit Item**
+
+![Screenshot 2024-06-14 at 16 15 23](https://github.com/Elyzsium/item-info/assets/40998323/957549c6-4580-4937-b35a-f0f1b7e0f270)
+
+- **View Item**
+
+![Screenshot 2024-06-14 at 16 15 39](https://github.com/Elyzsium/item-info/assets/40998323/b0c5b61b-04e1-4d51-b95b-03f852c02d80)
+
+
 
